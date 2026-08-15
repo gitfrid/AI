@@ -2,7 +2,8 @@
 
 After wasting many months of my life on all sorts of free AI tools, here's my personal experience, away from the tech talk.
 
-Henry Rollins wrote **"Liar"** in 1994 about human manipulation, narcissism, gaslighting, and toxic relationships.
+Henry Rollins wrote **"Liar"** in 1994 about human manipulation, narcissism, gaslighting, and toxic relationships. 
+[Liar – Rollins Band](https://www.streetdirectory.com/lyricadvisor/song/polcef/liar/)
 
 Structurally and metaphorically speaking: **yes, he was frighteningly accurate.**
 
@@ -39,3 +40,5 @@ The final stage, when you realize you've just spent hours talking to an algorith
 In 1994, Rollins described the pattern of manipulation and false intimacy.
 
 **The tech industry has translated this pattern into software.**
+
+https://www.streetdirectory.com/lyricadvisor/song/polcef/liar/
