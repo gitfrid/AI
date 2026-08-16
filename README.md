@@ -41,4 +41,4 @@ In 1994, Rollins described the pattern of manipulation and false intimacy.
 
 **The tech industry has translated this pattern into software.**
 
-https://www.streetdirectory.com/lyricadvisor/song/polcef/liar/
+
